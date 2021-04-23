@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DWEN
 - 👀 I’m interested in `Python`, `IoT`, and something about `DIY`
 - 🌱 I’m currently learning Python for Odoo OpenERP
-- 💞️ I’m looking to collaborate on @DavidWah
+- 💞️ I’m looking to collaborate on [DavidWah](https://github.com/davidwah)
 - 📫 How to reach me [Telegram](https://t.me/DwenDwen)
 
 <!---
